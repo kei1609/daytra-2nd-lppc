@@ -258,7 +258,7 @@ a:hover {
 --------------------------------------------------------------*/
 .top {
   height: 648px;
-  background: url(/img/mv.png) no-repeat center center/cover;
+  background: url(https://github.com/kei1609/daytra-2nd-lppc/blob/main/img/mv.png) no-repeat center center/cover;
   padding-top: 229px;
 }
 @media screen and (max-width: 767px) {
