@@ -153,13 +153,13 @@ a:hover {
 @media screen and (max-width: 767px) {
   .drawer-icon {
     display: block;
-    background: url("https://kei1609.github.io/daytra-2nd-lppc/img/SP/hamburger.png") center center/contain;
+    background: url(https://kei1609.github.io/daytra-2nd-lppc/img/SP/hamburger.png) center center/contain;
     transition: all 0.5s ease 0s;
   }
   .drawer-icon.is-drawer-active {
     width: 21px;
     height: 21px;
-    background: url("https://kei1609.github.io/daytra-2nd-lppc/img/SP/batsu.png") center center/cover;
+    background: url(https://kei1609.github.io/daytra-2nd-lppc/img/SP/batsu.png) center center/cover;
     transform: translateX(-80vw);
   }
 }
@@ -258,7 +258,7 @@ a:hover {
 --------------------------------------------------------------*/
 .top {
   height: 648px;
-  background: url("https://kei1609.github.io/daytra-2nd-lppc/img/mv.png") no-repeat center center/cover;
+  background: url(https://kei1609.github.io/daytra-2nd-lppc/img/mv.png) no-repeat center center/cover;
   padding-top: 229px;
 }
 @media screen and (max-width: 767px) {
@@ -1070,7 +1070,7 @@ a:hover {
   margin-top: 0;
   width: 100%;
   height: 952px;
-  background: url("https://github.com/kei1609/daytra-2nd-lppc/img/qa-bg.png") no-repeat center center/cover;
+  background: url(https://github.com/kei1609/daytra-2nd-lppc/img/qa-bg.png) no-repeat center center/cover;
 }
 @media screen and (max-width: 767px) {
   .qa {
@@ -1205,10 +1205,10 @@ a:hover {
   right: 0;
   width: 17px;
   height: 17px;
-  background: url("https://kei1609.github.io/daytra-2nd-lppc/img/plus.png") no-repeat center center/contain;
+  background: url(https://kei1609.github.io/daytra-2nd-lppc/img/plus.png) no-repeat center center/contain;
 }
 .qa-box-icon.is-open {
-  background: url("https://kei1609.github.io/daytra-2nd-lppc/img/minus.png") no-repeat center center/contain;
+  background: url(https://kei1609.github.io/daytra-2nd-lppc/img/minus.png) no-repeat center center/contain;
 }
 
 .qa-box-a {
@@ -1471,7 +1471,7 @@ iframe {
 --------------------------------------------------------------*/
 .contact {
   margin-top: 120px;
-  background: url("https://github.com/kei1609/daytra-2nd-lppc/img/contact-bg.png") no-repeat center center/cover;
+  background: url(https://github.com/kei1609/daytra-2nd-lppc/img/contact-bg.png) no-repeat center center/cover;
   padding: 60px 0;
 }
 @media screen and (max-width: 992px) {
@@ -1505,14 +1505,14 @@ iframe {
   padding-top: 60px;
   width: 100%;
   height: 196px;
-  background: url("https://kei1609.github.io/daytra-2nd-lppc/img/contact1.png") no-repeat center center/cover;
+  background: url(https://kei1609.github.io/daytra-2nd-lppc/img/contact1.png) no-repeat center center/cover;
   text-align: center;
 }
 @media screen and (max-width: 767px) {
   .contact-head {
     padding-top: 40px;
     height: 163px;
-    background: url("https://kei1609.github.io/daytra-2nd-lppc/img/SP/contact1.png") no-repeat center center/cover;
+    background: url(https://kei1609.github.io/daytra-2nd-lppc/img/SP/contact1.png) no-repeat center center/cover;
   }
 }
 
