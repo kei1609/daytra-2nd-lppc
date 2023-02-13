@@ -1612,7 +1612,7 @@ iframe {
   .contact-form textarea {
     width: 100%;
     min-height: 160px;
-    margin-top: 8px;
+    margin-top: 6px;
     margin-bottom: 21px;
   }
 }
