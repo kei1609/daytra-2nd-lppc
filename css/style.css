@@ -28,7 +28,7 @@
 }
 body {
   font-size: 16px;
-  font-family: "游ゴシック", sans-serif;
+  font-family: "Yu Gothic", "游ゴシック", YuGothic, "游ゴシック体", sans-serif;
   line-height: 19/16;
   letter-spacing: 0.25em;
 }
@@ -101,6 +101,7 @@ a:hover {
   height: 83px;
   font-family: "Montserrat", sans-serif;
   font-size: 16px;
+  font-weight: 500;
   letter-spacing: -0.4px;
   color: #3e3e3e;
   display: flex;
@@ -423,10 +424,10 @@ a:hover {
 }
 
 .news-item-heading-text {
-  font-size: 12px;
+  font-size: 14px;
   padding-left: 32px;
   line-height: 25px;
-  letter-spacing: 0.18em;
+  letter-spacing: 0em;
   width: 121px;
   height: 30px;
   border: 2px solid #3B69FF;
@@ -1102,6 +1103,7 @@ a:hover {
   background: #fff;
   border-radius: 4px;
   padding: 17px 16px;
+  cursor: pointer;
 }
 .qa-box.box-top {
   padding-top: 19px;
