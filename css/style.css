@@ -1600,7 +1600,7 @@ iframe {
 @media screen and (max-width: 767px) {
   .contact-form input[type=text],
   .contact-form input[type=email] {
-    width: 339px;
+    width: 100%;
     height: 30px;
   }
 }
