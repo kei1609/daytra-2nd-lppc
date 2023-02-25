@@ -28,7 +28,7 @@
 }
 body {
   font-size: 16px;
-  font-family: "Yu Gothic", "游ゴシック", YuGothic, "游ゴシック体", sans-serif;
+  font-family: "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", sans-serif;
   line-height: 19/16;
   letter-spacing: 0.25em;
 }
@@ -1755,8 +1755,9 @@ iframe {
   background-color: #fff;
   width: 178px;
   height: 40px;
+  font-size: 16px;
   font-family: "游ゴシック", sans-serif;
-  letter-spacing: 0.165em;
+  letter-spacing: -0.04em;
   border: 1px solid #707070;
   padding-left: 12px;
   transition: all 0.4s;
