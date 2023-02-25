@@ -1157,7 +1157,7 @@ a:hover {
 
 .question-text {
   font-size: 16px;
-  font-family: "游ゴシック", sans-serif;
+  font-family: "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", sans-serif;
   letter-spacing: 0.025em;
   line-height: 1;
   font-weight: bold;
@@ -1574,13 +1574,13 @@ iframe {
 }
 .contact-form input[type=text]::-moz-placeholder, .contact-form input[type=email]::-moz-placeholder {
   font-size: 16px;
-  font-family: "游ゴシック", sans-serif;
+  font-family: "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", sans-serif;
   letter-spacing: 0.01em;
 }
 .contact-form input[type=text]::placeholder,
 .contact-form input[type=email]::placeholder {
   font-size: 16px;
-  font-family: "游ゴシック", sans-serif;
+  font-family: "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", sans-serif;
   letter-spacing: 0.01em;
 }
 @media screen and (max-width: 767px) {
@@ -1763,7 +1763,7 @@ iframe {
   width: 178px;
   height: 40px;
   font-size: 16px;
-  font-family: "游ゴシック", sans-serif;
+  font-family: "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", sans-serif;
   letter-spacing: -0.04em;
   border: 1px solid #707070;
   padding-left: 12px;
@@ -1980,7 +1980,7 @@ input[type=radio]:active + span::before {
   line-height: 100px;
   width: 100%;
   height: 100px;
-  font-family: "游ゴシック", sans-serif;
+  font-family: "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", sans-serif;
   color: #3E3E3E;
   font-size: 18px;
   text-align: center;
@@ -2070,7 +2070,7 @@ footer {
 }
 
 .footer-info-item {
-  font-family: "游ゴシック", sans-serif;
+  font-family: "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", sans-serif;
   letter-spacing: 0.005em;
   line-height: 1;
 }
