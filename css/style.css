@@ -1336,6 +1336,7 @@ a:hover {
     flex-wrap: nowrap;
     margin-left: 4.2666%;
     margin-right: 4.2666%;
+    padding-left: 0;
   }
 }
 
