@@ -405,6 +405,11 @@ a:hover {
   width: 9.815%;
   margin: auto 0;
 }
+@media screen and (max-width: 992px) {
+  .news-item-date {
+    width: 20%;
+  }
+}
 @media screen and (max-width: 767px) {
   .news-item-date {
     display: inline-block;
